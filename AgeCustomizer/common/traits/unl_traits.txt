@@ -1,0 +1,214 @@
+########################################################################################################
+# WARNING: IF YOU DON'T ADD NEW TRAITS LAST (IN THE LAST READ TRAIT FILE), IT WILL BREAK OLD SAVE GAMES!
+########################################################################################################
+unl_one_1 = {
+	ruler_designer_cost = 1
+}
+unl_one_2 = {
+	ruler_designer_cost = 1
+}
+unl_one_3 = {
+	ruler_designer_cost = 1
+}
+unl_one_4 = {
+	ruler_designer_cost = 1
+}
+unl_one_5 = {
+	ruler_designer_cost = 1
+}
+unl_one_6 = {
+	ruler_designer_cost = 1
+}
+unl_one_7 = {
+	ruler_designer_cost = 1
+}
+unl_one_8 = {
+	ruler_designer_cost = 1
+}
+unl_one_9 = {
+	ruler_designer_cost = 1
+}
+unl_one_10 = {
+	ruler_designer_cost = 1
+}
+
+
+
+unl_five_1 = {
+	ruler_designer_cost = 5
+}
+unl_five_2 = {
+	ruler_designer_cost = 5
+}
+unl_five_3 = {
+	ruler_designer_cost = 5
+}
+unl_five_4 = {
+	ruler_designer_cost = 5
+}
+unl_five_5 = {
+	ruler_designer_cost = 5
+}
+unl_five_6 = {
+	ruler_designer_cost = 5
+}
+unl_five_7 = {
+	ruler_designer_cost = 5
+}
+unl_five_8 = {
+	ruler_designer_cost = 5
+}
+unl_five_9 = {
+	ruler_designer_cost = 5
+}
+unl_five_10 = {
+	ruler_designer_cost = 5
+}
+
+
+unl_ten_1 = {
+	ruler_designer_cost = 10
+}
+unl_ten_2 = {
+	ruler_designer_cost = 10
+}
+unl_ten_3 = {
+	ruler_designer_cost = 10
+}
+unl_ten_4 = {
+	ruler_designer_cost = 10
+}
+unl_ten_5 = {
+	ruler_designer_cost = 10
+}
+unl_ten_6 = {
+	ruler_designer_cost = 10
+}
+unl_ten_7 = {
+	ruler_designer_cost = 10
+}
+unl_ten_8 = {
+	ruler_designer_cost = 10
+}
+unl_ten_9 = {
+	ruler_designer_cost = 10
+}
+unl_ten_10 = {
+	ruler_designer_cost = 10
+}
+
+unl_minusone_1 = {
+	ruler_designer_cost = -1
+}
+unl_minusone_2 = {
+	ruler_designer_cost = -1
+}
+unl_minusone_3 = {
+	ruler_designer_cost = -1
+}
+unl_minusone_4 = {
+	ruler_designer_cost = -1
+}
+unl_minusone_5 = {
+	ruler_designer_cost = -1
+}
+unl_minusone_6 = {
+	ruler_designer_cost = -1
+}
+unl_minusone_7 = {
+	ruler_designer_cost = -1
+}
+unl_minusone_8 = {
+	ruler_designer_cost = -1
+}
+unl_minusone_9 = {
+	ruler_designer_cost = -1
+}
+unl_minusone_10 = {
+	ruler_designer_cost = -1
+}
+
+unl_minusfive_1 = {
+	ruler_designer_cost = -5
+}
+unl_minusfive_2 = {
+	ruler_designer_cost = -5
+}
+unl_minusfive_3 = {
+	ruler_designer_cost = -5
+}
+unl_minusfive_4 = {
+	ruler_designer_cost = -5
+}
+unl_minusfive_5 = {
+	ruler_designer_cost = -5
+}
+unl_minusfive_6 = {
+	ruler_designer_cost = -5
+}
+unl_minusfive_7 = {
+	ruler_designer_cost = -5
+}
+unl_minusfive_8 = {
+	ruler_designer_cost = -5
+}
+unl_minusfive_9 = {
+	ruler_designer_cost = -5
+}
+unl_minusfive_10 = {
+	ruler_designer_cost = -5
+}
+
+
+
+unl_minusten_1 = {
+	ruler_designer_cost = -10
+}
+unl_minusten_2 = {
+	ruler_designer_cost = -10
+}
+unl_minusten_3 = {
+	ruler_designer_cost = -10
+}
+unl_minusten_4 = {
+	ruler_designer_cost = -10
+}
+unl_minusten_5 = {
+	ruler_designer_cost = -10
+}
+unl_minusten_6 = {
+	ruler_designer_cost = -10
+}
+unl_minusten_7 = {
+	ruler_designer_cost = -10
+}
+unl_minusten_8 = {
+	ruler_designer_cost = -10
+}
+unl_minusten_9 = {
+	ruler_designer_cost = -10
+}
+unl_minusten_10 = {
+	ruler_designer_cost = -10
+}
+
+
+
+unl_minusfifty_1 = {
+	ruler_designer_cost = -50
+}
+unl_minusfifty_2 = {
+	ruler_designer_cost = -50
+}
+unl_minusfifty_3 = {
+	ruler_designer_cost = -50
+}
+unl_minusfifty_4 = {
+	ruler_designer_cost = -50
+}
+unl_minushundred_1 = {
+	ruler_designer_cost = -100
+}
+unl_minushundred_2 = {
+	ruler_designer_cost = -100
+}
